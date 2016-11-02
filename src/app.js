@@ -87,5 +87,7 @@ function checkTiles(){
             gameLayer.removeChild(pickedTiles[1]);
         }
         pickedTiles = [];
+        //pickedTiles = 0;
+        //cc.director.runScene(new clearScene());
     },1000);
 }

@@ -12,7 +12,6 @@ Markdownのプレービュー表示 : control + shift + M
 行の選択	:Ctrl + L  
 行の削除	:Ctrl + Shift + K  
 行ごと移動	：Ctrl + 上矢印キー or 下矢印キー  
-行ごと下の行へコピー	：Ctrl + Shift + D  
 行の下に空行を挿入	：Ctrl + Enter  
 行の上に空行を挿入	：Ctrl + Shift + Enter  
 画面を右に分割	：(Ctrl + K)+　一度指を話してから + 右矢印キー  
@@ -32,8 +31,6 @@ Markdownのプレービュー表示 : control + shift + M
 ## plugin の起動
 git-plus      :Ctrl-Shift-H  :git-plusのパネルを表示させる  
 Atom Beautify         :ctrl-alt-b　:　自動整形  
-atom-html-preview     :ctrl-shift-H : htmlﾌｧｲﾙをプレビューしてくれる  
-
 ## git-plus Command
  :Ctrl-Shift-H  :git-plusのパネルを表示させる  
 ctrl-Shift-A	 :カレントファイルを git add する  
